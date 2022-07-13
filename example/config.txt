@@ -1,0 +1,2 @@
+Prefix plugins/NXTrim/example/
+Plugin NXTrim inputfile fastqfiles.txt outputfile output
